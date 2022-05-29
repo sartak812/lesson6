@@ -1,5 +1,5 @@
 #!/bin/bash
-AGE=36
+AGE=333
 #echo "What is your name:"
 read -p "What is your name:" name
 echo "How old are you?"
